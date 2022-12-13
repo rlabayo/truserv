@@ -13,7 +13,7 @@ A web application that add, updates, delete and view of records for visa applica
   - Edit User
 * Primary and dependents holder
 * Reports
-  -
+  
 * Utilities
   - Folder Names
   - Petitioner
